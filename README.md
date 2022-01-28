@@ -1,5 +1,5 @@
 # sqlslip
-Slipstreaming CUs of SQL Server and create ISO images from them
+Slipstreams CUs of SQL Server and creates ISO images from them
 
 ## Works on:
 - SQL Server 2019 with Cumulative Updates
