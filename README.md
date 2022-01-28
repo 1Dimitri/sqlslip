@@ -5,6 +5,9 @@ Slipstreaming CUs of SQL Server and create ISO images from them
 - SQL Server 2019 with Cumulative Updates
 - SQL Server 2016 with Service Packs (but not Service Packs *and* Cumultative updates)
 
+## Installation
+Clone this repository and make sure you add in the same directory or in your path the [OSCDIMG.EXE executable](https://docs.microsoft.com/en-us/windows-hardware/manufacture/desktop/oscdimg-command-line-options)
+
 ## Usage
 ```
 sqlslip SQLSource-Directory CU-Directory TargetDirectory [/nocleanup] [/noiso]
